@@ -10,6 +10,9 @@ Jack Cone
 
 1. Annotated Bibliography 
   - Problem Statement 
+    - Harms
+    - Significance of those harms
+    - Inherant nature of the problem 
   - Selected LMIC or Region
   - Dimensions of Human Development
 2. Literature Review
