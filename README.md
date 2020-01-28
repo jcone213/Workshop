@@ -14,5 +14,5 @@ Jack Cone
     - Significance of those harms
     - Inherant nature of the problem 
   - Selected LMIC or Region
-  - Dimensions of Human Development
+  - Dimension of Human Development
 2. Literature Review
