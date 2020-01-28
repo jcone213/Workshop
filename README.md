@@ -1,6 +1,4 @@
-# index 
-
-Jack Cone
+# Jack Cone 
 
 ### Reading Responses 
 
