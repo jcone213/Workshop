@@ -2,7 +2,7 @@
 
 ### Reading Responses 
 
-1. [Blumenstock Response (Jan. 28)](https://github.com/jcone213/workshop/blob/master/blumenstock.md)
+1. [Blumenstock Response (Jan. 28)](https://jcone213.github.io/workshop/blumenstock/)
 
 ### Assignments 
 
