@@ -1,4 +1,4 @@
-#Blumenstock Response
+## Blumenstock Response
 
 January 28, 2020
 
