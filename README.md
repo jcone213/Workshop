@@ -3,7 +3,7 @@
 ### Reading Responses 
 
 1. [Blumenstock Response (Jan. 28)](https://jcone213.github.io/Workshop/blumenstock)
-2. Podcast response
+2. [Podcast response (Feb. 4)](https://jcone213.github.io/Workshop/Jahan_Rosling)
 
 ### Assignments 
 
