@@ -1,0 +1,5 @@
+## Jahan and Rosling Repsonse 
+
+1. Jahan: Selim Jahan starts out by giving his definition of human development which is the process of enlarging human choices. Some of the issues he discusses 
+
+2. Rosling: Rosling uses several examples to support his claim that health was a precursor to wealth. He was using a data program which showed a countries age expectancy on one axis and their average wealth on the other axis. To his point the countries that gained more wealth over the years started at a higher age expectancy. His data also showed a much faster movement to higher wealth in countries where they were already healthy. The countries that had bad health to start still moved upward on the wealth axis, but at a much slower rate. Rosling's warning about using averages when describing development was that within a country, there can be a vast difference between certain cities. A country may seem like it is doing well because the average says so, when in reality there could be many groups of people living in poverty.
