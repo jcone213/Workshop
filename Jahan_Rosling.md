@@ -1,6 +1,6 @@
 ## Jahan and Rosling Repsonse 
 
-  There is so much pain and suffering in today's world, it is not uncommon that people in need may go unnoticed due to overshandowing of more successful societies. 
+    There is so much pain and suffering in today's world, it is not uncommon that people in need may go unnoticed due to overshandowing of more successful societies. 
   
   Selim Jahan starts out by giving his definition of human development which is the process of enlarging human choices. Some of the issues he discusses that need to be focused on are child and gender labor. Another issue he covers is the difference between employment/jobs and work. He says that we should focus more on work rather than employment. Work can include care work or voluntary work. These can take place after a crisis or any other time where work is needed and the perosn is not compensated for their work. Feeding off of his earlier definition of human development he also says that human capabilities must be enhanced and in turn create opportunities with those capabilities. The different measures incorporated into the Human Development Index according to Jahan are a long healthy life, knowledge, and decent standard of living.
   
