@@ -1,6 +1,5 @@
 # Disaster Response
-
-## Jack Cone
+Jack Cone
 
 ## Problem Statement
 
