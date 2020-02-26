@@ -1,7 +1,8 @@
-##Disaster Response
-#Jack Cone
+## Disaster Response
 
-##Problem Statement
+# Jack Cone
+
+## Problem Statement
 
 Natural disasters have always been some of Earth’s most dangerous, harmful, and sometimes unexpected events to ever happen to humans. These disasters can easily cripple a nation's economy or tear families apart if they are not prepared. These effects only get amplified when the disasters occur in a low-middle income country such as Columbia. Columbia, on the northern border of South America, is placed in close proximity to a continental plate. This is bad news for the residents because they are at a much higher risk of becoming victims of earthquakes or volcanic eruptions. The main problem with responding to natural disasters is the quickness and accuracy of it all. High income countries will still face a lot of damage, but they will recover much faster than low-middle income countries. One of the tools that can be utilized for a fast and reliable response is CDR data. Call Data Records will be able to map out accurately in real time where citizens in danger are and in turn allowing them to be redirected to safety. Another way to improve help for people is by looking at past events to try and notice trends that could make future responses better. Disasters could be completely random with little to no warning making the responses as important if not more important than preventing them.
 
