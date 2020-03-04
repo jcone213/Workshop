@@ -4,6 +4,7 @@
 
 1. [Blumenstock Response (Jan. 28)](https://jcone213.github.io/Workshop/blumenstock)
 2. [Jahan and Rosling response (Feb. 4)](https://jcone213.github.io/Workshop/Jahan_Rosling)
+3. [Anderson and Kitchin Repsonse](https://jcone213.github.io/Workshop/Anderson_Kitchin)
 
 ### Assignments 
 
