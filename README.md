@@ -11,10 +11,4 @@
 ### Assignments 
 
 1. [Annotated Bibliography](https://jcone213.github.io/Workshop/Assignment_1)
-  - Problem Statement 
-    - Harms
-    - Significance of those harms
-    - Inherant nature of the problem 
-  - Selected LMIC or Region
-  - Dimension of Human Development
-2. Literature Review
+2. [Literature Review](https://jcone213.github.io/Workshop/Literature_Review)
