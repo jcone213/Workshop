@@ -27,7 +27,7 @@ The issues seen in the process lie mainly in the fact that it is difficult to tr
 
 ### **Geospatial Data Science Methods**
 
-
+The most useful Data Science method used for this topic has to be mapping. Creating maps that have everything from disaster risk levels, to population distribution, or even types of homes that people live in are all useful. One way of gathering the data for these maps is by using CDR data. CDR data or call detail record is just a record of metadata that includes many different categories. Some of these categories are where a call was made, when the call was made, where the call was going, etc. This data is most useful during holiday seasons or right after a disaster. During these times people call whoever they are closest to. This could give researchers useful data as to where people are who are still stuck in an inhabitable area after an earthquake. Some problems with CDR data within respect of Columbia are that there may not be as many cell phones to make calls. Another flaw is that after a disaster, phone lines or connection cables could be destroyed or hindered by debris. 
 
 ### **Discussion**
 
