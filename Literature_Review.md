@@ -1,5 +1,5 @@
-## :-: **Using CDR Data to Make Improved Predictions/Decisions About Natural Disaster Response Throughout Columbia**
-#### :-: <div align="center"> By: Jack Cone</div>
+## :-:Using CDR Data to Make Improved Predictions/Decisions About Natural Disaster Response Throughout Columbia
+#### :-:By: Jack Cone
 
 ### **Introduction**
 
