@@ -12,3 +12,4 @@
 
 1. [Annotated Bibliography](https://jcone213.github.io/Workshop/Assignment_1)
 2. [Literature Review](https://jcone213.github.io/Workshop/Literature_Review)
+3. [Methodology Paper](https://jcone213.github.io/Workshop/Methodology)
