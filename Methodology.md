@@ -22,11 +22,11 @@ The other method, random forest, is a machine learning algorithm used in dasymet
 Researchers have showed with much evidence that these two methods, CDR data and random forest, can be used for human mobility mapping. The question remains which method will suit better for a post natural disaster situation. CDR data seems to have the upper hand due to its relationship if you will with the citizens of the country. Random forest is a machine learning algorithm looking for buildings or landmarks in order to make a map. So, when thinking about human mobility, the data set that involves human connection seems to make sense. However, there is still the problem with technology not working in times we need it most. Can we really expect a majority of Columbians to have a working phone to call with after a disaster? Phone lines may be damaged, people may not be able to charge their devices or become disconnected from it if they lose it. Another problem with the research is determining who needs help the most. That is great if we know where everyone is and moving to, but if we give help to a certain group that is healthy and well while another is struggling to survive or find their families we have failed. There remains a question of how to determine who needs support the most.
   
 ## **Figures**
-![](Figure%201.png)
+![](Figure%201.PNG)
 
-Figure 2 - ![image](C:\Users\jcone\OneDrive\Desktop\Figure 2)
+Figure 2 - ![](Figure%202.PNG)
 
-Figure 3 - ![image](C:\Users\jcone\OneDrive\Desktop\Figure 3)
+Figure 3 - ![](Figure%203.gif)
 
 ## **Resources**
 
