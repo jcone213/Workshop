@@ -24,7 +24,7 @@ Researchers have showed with much evidence that these two methods, CDR data and 
 ## **Figures**
 
  
-![Figure 1](Figure%201.png)
+![](Figure%201.png)
 
 Figure 2 - ![image](C:\Users\jcone\OneDrive\Desktop\Figure 2)
 
