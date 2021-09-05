@@ -1,6 +1,6 @@
-# Jack Cone 
+# Agent Based Models 
 
-### Reading Responses 
+### Introduction
 
 1. [Blumenstock Response (Jan. 28)](https://jcone213.github.io/Workshop/blumenstock)
 2. [Jahan and Rosling response (Feb. 4)](https://jcone213.github.io/Workshop/Jahan_Rosling)
